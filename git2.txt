@@ -1,0 +1,6 @@
+parveen
+
+    Simulator::Run ();
+  Simulator::Destroy ();
+  return 0;
+}
